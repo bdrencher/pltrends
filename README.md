@@ -1,6 +1,14 @@
 # pltrends
 Investigating trends in programming languages using GitHub commits.
 
+## Questions and Answers
+
+### Questions this repo attempts to answer
+What are top 10 most used programming languages on GitHub?
+How has the popularity of programming languages changed over time?
+What languages are likely to become popular in the near future?
+What languages are likely to see less use in the near future?
+
 ## Data
 
 ### Types and top level structure
